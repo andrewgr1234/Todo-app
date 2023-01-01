@@ -1,6 +1,6 @@
 # Before anything, you have to install fastapi and uvicorn using "pip":
-<br>pip install fastapi
-<br>pip install uvicorn
+<br>```pip install fastapi```
+<br>```pip install uvicorn```
 <br>
 # To run the app you have to type:
 <br>```uvicorn main:app --reload```
