@@ -1,5 +1,3 @@
-# how to run the app:
-
 # Before anything, you have to install fastapi and uvicorn using "pip":
 pip install fastapi
 pip install uvicorn
