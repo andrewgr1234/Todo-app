@@ -3,7 +3,7 @@
 <br>pip install uvicorn
 <br>
 # To run the app you have to type:
-<br>uvicorn main:app --reload
+<br>```uvicorn main:app --reload```
 <br>(if that didnt work try)
 <br>```python3 -m uvicorn main:app --reload```
 <br>
