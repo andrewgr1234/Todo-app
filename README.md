@@ -12,6 +12,6 @@
 <br>http://localhost:8000/docs
 <br>
 <br>Now when you added the tast yopu can view it alone by typing this
-<br>http://localhost:8000/todos/(Task ID)
+<br>http://localhost:8000/todos/(Task-ID)
 <br>example:
 <br>http://localhost:8000/todos/1
